@@ -4,7 +4,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Hendra1505&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hendra1505&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hendra1505&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
