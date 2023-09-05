@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm currently learning Algorithm, Data structure, Python, React, SQL, Odoo Etc.</p>
+<p align="left">from indonesia<br>
+  <br>- 🔭 I’m working as software engineer<br>- 📚 I'm currently learning Algorithm, Data structure, Python, React, SQL, Odoo Etc.</p>
 
 ###
 
