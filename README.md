@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hendra1505&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1&custom_title=Ekky Github stats" height="159" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Hendra1505&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hendra1505&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=monokai&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
@@ -31,12 +30,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hendra1505/Hendra1505/output/snake.svg" alt="Snake animation" />
 
 ###
 
